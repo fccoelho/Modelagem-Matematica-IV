@@ -1,4 +1,4 @@
-# Trabalhos de Conclusao dos Alunos de Modelagem Matematica 4 
+# Trabalhos de Conclusão dos Alunos de Modelagem Matemática 4 
 
 Adicione neste diretorio o seu trabalho em um subdiretorio do Ano em que 
-voce fez o curso.
+você fez o curso.
