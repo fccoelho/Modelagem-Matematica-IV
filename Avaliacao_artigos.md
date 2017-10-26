@@ -11,4 +11,4 @@ proposta e realizada do modelo será avaliada conforme a relevância para a eluc
 4. Forma do artigo.(2 pontos):
 Neste quesito só levará os dois pontos o trabalho que estiver pronto para submissão a uma revista. 
 Incluindo formatação conforme especificação da revista. Este quesito é tudo ou nada.
-5. Bônus. 1 ponto: Excelência. grupos que obtiverem mais de 80% nos 3 primeiros quesitos anteriores levam um ponto extra.
+5. Conjunto da obra. 1 ponto: Excelência do trabalho. grupos que obtiverem mais de 80% nos 3 primeiros quesitos anteriores levam um ponto extra.
