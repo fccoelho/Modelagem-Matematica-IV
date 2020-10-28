@@ -33,7 +33,7 @@ Para a A2 a entrega consistirá de versão estendida (completa) do artigo que en
 * (5 pontos) Seção de ***Resultados*** contendo resultados analíticos e de simulação numérica do modelo proposto no artigo. O modelo deverá ser comparado aos dados existentes como forma de validação acompanhado de metodologia de escolha de valores para os parâmetros. Figuras e tabelas deverão ser incluídas nesta seção
 * (4 pontos) Seção de ***Discussão e Conclusão*** contendo uma explicação mais detalhada dos resultados obtidos e suas implicações epidemiológicas e conclusões gerais do exercicio de modelagem e sua aplicabilidade para o entendimento do espalhamento da doença no país.
 
-# Passo a passo da segunda parte
+# Passo a passo para elaboração da segunda parte do artigo (A2)
 ## Resultados
 ### Ter o modelo pronto e adimensionalizado
 ### Encontrar os equilíbrios: ELD (eq. livre de doença) EE (eq. endêmicos)
