@@ -32,3 +32,21 @@ Para a A2 a entrega consistirá de versão estendida (completa) do artigo que en
 * (1 ponto) ***Resumo*** do artigo refletindo de forma sucinta os objetivos, metodologia, resultados e conclusão do trabalho.
 * (5 pontos) Seção de ***Resultados*** contendo resultados analíticos e de simulação numérica do modelo proposto no artigo. O modelo deverá ser comparado aos dados existentes como forma de validação acompanhado de metodologia de escolha de valores para os parâmetros. Figuras e tabelas deverão ser incluídas nesta seção
 * (4 pontos) Seção de ***Discussão e Conclusão*** contendo uma explicação mais detalhada dos resultados obtidos e suas implicações epidemiológicas e conclusões gerais do exercicio de modelagem e sua aplicabilidade para o entendimento do espalhamento da doença no país.
+
+# Passo a passo da segunda parte
+## Resultados
+### Ter o modelo pronto e adimensionalizado
+### Encontrar os equilíbrios: ELD (eq. livre de doença) EE (eq. endêmicos)
+### Por meio de metodo de linearização local, caracterizar as estabilidades dos equilíbrios
+### Calculo do RO. Analitico e depois substituir os valores para obter uma estimativa numérica.
+### Gerar simulações e compara com os dados. Descrevam a adequação do modelo para representar a epidemia no país escolhido
+### Análise de sensibilidade
+### Otimização dos parâmetros
+### Estimação bayesiana dos parâmetros.
+## Discussão
+### Contextualizar cada resultado
+### Discutir toda a análise feita de um ponto de vista geral defendendo a aplicabilidade e originalidade dos resultados obtidos. 
+### Implicações do modelo para o controle da COVID
+## Conclusão
+
+Adicionalmente é necessário escrever um resumo, no início de artigo.
