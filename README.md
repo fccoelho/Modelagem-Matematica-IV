@@ -1,7 +1,9 @@
 Modelagem-Matematica-IV
 =======================
+Modelagem de Fenômenos Biológicos
+---------------------------------
 
-Repositório da cadeira de Modelagem Matemática IV - Modelagem de Sistemas Biológicos
+Repositório da cadeira de Modelagem Matemática  Fenômenos Biológicos
 ministrado no quarto período curso de Matemática Aplicada da FGV-EMAp.
 
 Este curso faz uso extensivo do sistema Sage (http://sagemath.org) de computação simbólica.
