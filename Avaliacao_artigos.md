@@ -1,6 +1,6 @@
 # Regras de Avaliação
 
-A avaliação dos artigos científicos entregues pelos grupos na semana da A2 será feita segundo os seguintes quesitos:
+A avaliação dos artigos científicos entregues pelos grupos na semana da A1 será feita segundo os seguintes quesitos:
 
 1. Definição da Questão e revisão bibliográfica (2 pontos): Neste quesito serão levados em conta: qualidade da definição 
 e exposição do problema e a abrangência e relevância da revisão bibliográfica.
