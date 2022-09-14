@@ -10,7 +10,7 @@ Os repositórios de implementação poderão ser mantidos privados no Github por
 
 ## Tema
 
-Os trabalhos versarão sobre a modelagem de um sistema biológico, à escolha do grupo. Os temas devem ser indicados no issue #13. O trabalhos deverão ser desenvolvidos como documentos em latex acompanhados de notebooks com o código usado para as simulações e demais análise apresentadas. Todos os arquivos referentes ao trabalho deverão constar em um repositório github do grupo indicado na mesma issue #13 ao lado de cada grupo.
+Os trabalhos versarão sobre a modelagem de um sistema biológico, à escolha do grupo. Os temas devem ser indicados na [issue #13](https://github.com/fccoelho/Modelagem-Matematica-IV/issues/13). O trabalhos deverão ser desenvolvidos como documentos em latex acompanhados de notebooks com o código usado para as simulações e demais análise apresentadas. Todos os arquivos referentes ao trabalho deverão constar em um repositório github do grupo indicado na mesma [issue #13](https://github.com/fccoelho/Modelagem-Matematica-IV/issues/13),  ao lado de cada grupo.
 
 ## Da Entrega
 
