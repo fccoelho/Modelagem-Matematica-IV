@@ -1,4 +1,4 @@
-# Roteiro para elaboração do Trabalho para as avaliações A1 e A2
+# Roteiro para elaboração do Trabalho para a avaliação A1
 
 ## Orientações Gerais
 
