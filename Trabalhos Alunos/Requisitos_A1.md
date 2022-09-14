@@ -6,7 +6,7 @@ Os projetos deverão ser elaborados em grupos de dois alunos. Alunos fazendo o t
 
 As entregas consistirão na entrega de um relatório escrito (em $\latex$, com template `article`) acompanhado da implementação da modelagem em repositório github referenciado no relatório. 
 
-Os repositórios de implementação poderão ser mantidos privados no Github porém compartilhados com o Professor(@fccoelho)  e a Monitora da disciplina (@beatrizmcoimbra).
+Os repositórios de implementação poderão ser mantidos privados no Github porém compartilhados com o Professor(@fccoelho).
 
 ## Tema
 
